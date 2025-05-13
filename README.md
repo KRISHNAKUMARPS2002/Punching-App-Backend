@@ -28,7 +28,7 @@ A robust backend API for employee punch-in/punch-out management with photo verif
 1. **Clone the repository**
 
 ```bash
-git clone [https://github.com/yourusername/imc-punch-system.git](https://github.com/KRISHNAKUMARPS2002/Punching-App-Backend.git)
+git clone https://github.com/KRISHNAKUMARPS2002/Punching-App-Backend.git
 cd imc-punch-system
 ```
 
